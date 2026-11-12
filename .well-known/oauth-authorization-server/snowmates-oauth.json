@@ -1,5 +1,5 @@
 {
-  "issuer": "https://michaely1304.github.io",
+  "issuer": "https://michaely1304.github.io/snowmates-oauth.json",
   "authorization_endpoint": "https://tnatcctwnhniochzubwc.supabase.co/functions/v1/snowmates/authorize",
   "token_endpoint": "https://tnatcctwnhniochzubwc.supabase.co/functions/v1/snowmates/token",
   "registration_endpoint": "https://tnatcctwnhniochzubwc.supabase.co/functions/v1/snowmates/register",
