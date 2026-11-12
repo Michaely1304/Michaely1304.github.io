@@ -1,0 +1,26 @@
+{
+  "issuer": "https://michaely1304.github.io",
+  "authorization_endpoint": "https://tnatcctwnhniochzubwc.supabase.co/functions/v1/snowmates/authorize",
+  "token_endpoint": "https://tnatcctwnhniochzubwc.supabase.co/functions/v1/snowmates/token",
+  "registration_endpoint": "https://tnatcctwnhniochzubwc.supabase.co/functions/v1/snowmates/register",
+  "scopes_supported": [
+    "snowmates:trip"
+  ],
+  "response_types_supported": [
+    "code"
+  ],
+  "response_modes_supported": [
+    "query"
+  ],
+  "grant_types_supported": [
+    "authorization_code"
+  ],
+  "token_endpoint_auth_methods_supported": [
+    "none"
+  ],
+  "code_challenge_methods_supported": [
+    "S256"
+  ],
+  "service_documentation": "https://michaely1304.github.io/snowmates/ai/",
+  "client_id_metadata_document_supported": false
+}
